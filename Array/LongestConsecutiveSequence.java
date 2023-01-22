@@ -31,3 +31,6 @@ public class LongestConsecutiveSequence {
 
     }
 }
+// time complexity -- O(N)
+// space complexity -- O(1)
+
